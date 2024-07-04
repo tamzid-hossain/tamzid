@@ -1,0 +1,16 @@
+##2  kinds of attributes:
+1.global attributes(can be use everywhere)
+2.local attributes(use specificly)
+
+have 2 parts:
+1.attribute name
+2.attribute value
+
+
+tags:
+<marquee direction="right" scrollamount="10" >HALLO NACTAR</marquee>
+ <abbr title="bangladesh">BD</abbr><BR>
+  <bdo dir="rtl"> HALLO NET</bdo><br>
+   <del>delate</del>
+    
+<a href="https://www.w3schools.com/html/default.asp" target="_blank">w3schools</a>
